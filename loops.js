@@ -14,6 +14,7 @@ function whileLoop(n){
    console.log(--n) 
   }
   return ("done")
+<<<<<<< HEAD
 }
 
 function doWhileLoop(array){
@@ -25,4 +26,6 @@ do {
 array.pop();
 } while (array.length > 0 &&maybeTrue());
 return array
+=======
+>>>>>>> 8101901bbb2551e8ed9b9cb9d828726e992d067a
 }
